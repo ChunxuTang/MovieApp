@@ -1,0 +1,82 @@
+{
+  "moviedata": {
+    "alice": {
+      "primaryID": "1",
+      "id": "alice",
+      "name": "Alice in Wonderland",
+      "description": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.",
+      "stars": "Mia Wasikowska, Johnny Depp, Helena Bonham Carter",
+      "length": "108 min",
+      "image": "alice",
+      "year": "2010",
+      "rating": "6.5",
+      "director": "Tim Burton",
+      "url": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SY317_CR0,0,214,317_AL_.jpg"
+    },
+    "avator": {
+      "primaryID": "2",
+      "id": "avator",
+      "name": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "stars": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+      "length": "162 min",
+      "image": "avatar",
+      "year": "2009",
+      "rating": "7.9",
+      "director": "Cameron",
+      "url": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SY317_CR0,0,214,317_AL_.jpg"
+    },
+    "despicable2": {
+      "primaryID": "6",
+      "id": "despicable2",
+      "name": "Despicable Me 2",
+      "description": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+      "stars": "Steve Carell, Kristen Wiig, Benjamin Bratt",
+      "length": "98 min",
+      "image": "despicable2",
+      "year": "2013",
+      "rating": "7.6",
+      "director": "Pierre Coffin, Chris Renaud",
+      "url": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SY317_CR0,0,214,317_AL_.jpg"
+    },
+    "et": {
+      "primaryID": "7",
+      "id": "et",
+      "name": "E.T. the Extra-Terrestrial",
+      "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.",
+      "stars": "Henry Thomas, Drew Barrymore, Peter Coyote",
+      "length": "115 min",
+      "image": "et",
+      "year": "1982",
+      "rating": "7.9",
+      "director": "Steven Spielberg",
+      "url": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTc1NTQ0MTUyNF5BMl5BanBnXkFtZTcwMDYzMDU2Mw@@._V1_SX214_AL_.jpg"
+    },
+    "nemo": {
+      "primaryID": "16",
+      "id": "nemo",
+      "name": "Finding Nemo",
+      "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "stars": "Albert Brooks, Ellen DeGeneres, Alexander Gould ",
+      "length": "100 min",
+      "image": "nemo",
+      "year": "2003",
+      "rating": "8.2",
+      "director": "Andrew Stanton, Lee Unkrich",
+      "url": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTY1MTg1NDAxOV5BMl5BanBnXkFtZTcwMjg1MDI5Nw@@._V1_SY317_CR0,0,214,317_AL_.jpg"
+    },
+    "forrestgump": {
+      "primaryID": "8",
+      "id": "forrestgump",
+      "name": "Forrest Gump",
+      "description": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+      "stars": "Tom Hanks, Robin Wright, Gary Sinise",
+      "length": "145 min",
+      "image": "forrest_gump",
+      "year": "1994",
+      "rating": "8.8",
+      "director": "Robert Zemeckis",
+      "url": "http:\/\/ia.media-imdb.com\/images\/M\/MV5BMTQwMTA5MzI1MF5BMl5BanBnXkFtZTcwMzY5Mzg3OA@@._V1_SX214_AL_.jpg"
+    }
+  }
+}
