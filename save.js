@@ -12,3 +12,5 @@ mongoose.connection.on('error', () => {
 for (let [, movie] of Object.entries(movies.moviedata)) {
   movieController.saveMovie(movie);
 }
+
+mongoose.disconnect();
