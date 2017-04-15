@@ -1,3 +1,4 @@
+require('./config/config');
 const mongoose = require('mongoose');
 const movies = require('./movies.json');
 const movieController = require('./controllers/movie');
@@ -8,6 +9,8 @@ mongoose.connection.on('error', () => {
   console.log('MongoDB connection error. Please make sure MongoDB is running.');
   process.exit();
 });
+
+movieController.deleteMovies();
 
 for (let [, movie] of Object.entries(movies.moviedata)) {
   movieController.saveMovie(movie);

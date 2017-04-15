@@ -13,6 +13,14 @@ exports.getMovies = (callback) => {
   });
 };
 
+exports.deleteMovies = () => {
+  Movie.remove({}, (err, removed) => {
+    if (err) {
+      console.log('Error in deleting movies: ', err.message);
+    }
+  });
+};
+
 exports.saveMovie = (movie) => {
   const createdMovie = new Movie({
     name: movie.name,
